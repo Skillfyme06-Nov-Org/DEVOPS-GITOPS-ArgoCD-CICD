@@ -1,4 +1,4 @@
-name: CICD with Maven, Docker, Argo, kubernetes
+name: CICD for java code with Maven, Docker, Argo, kubernetes
 on: push
 jobs:
     cicd:
